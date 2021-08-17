@@ -1,4 +1,6 @@
-In order to run the website, you need to:
+You can watch the live version here: https://davidhuertabeltran.github.io/rgba-color-change/
+
+Or if you want, you can:
 
 1. clone the repository
 
